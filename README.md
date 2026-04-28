@@ -1,12 +1,14 @@
 # Pendahuluan
 
 Project ini dibuat sebagai latihan aku untuk mempelajari framework Svelte
+hasil kode ini bisa di lihat di:
+[Toko Plushie](https://pikan-plush.netlify.app/ "Pikan Plush")
 
 # Menggunakan Code
 
 Untuk menggunakan kode setidaknya kamu harus punya npm karena dia merupakan bagian dari node modules
 
-1. Clone repository atau download dalam bentuk zip project ini
+1. Clone repository atau download dalam bentuk zip project ini lalu ekstrak
 2. Buka terminal dan cd kedalam folder project anda
 3. Jalankan perintah npm install untuk menginstall package-package
 ```sh
